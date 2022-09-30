@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">IntentForActivity</string>
+    <string name="button_next_activity">Next Activity</string>
+    <string name="message_hint">Please enter a message</string>
+    <string name="receiver">Will Change</string>
+</resources>
